@@ -1,0 +1,14 @@
+C:\Projetos GIT\ManageRest\obj\Debug\netcoreapp2.2\ManageRest.csprojAssemblyReference.cache
+C:\Projetos GIT\ManageRest\obj\Debug\netcoreapp2.2\ManageRest.csproj.CoreCompileInputs.cache
+C:\Projetos GIT\ManageRest\obj\Debug\netcoreapp2.2\ManageRest.RazorAssemblyInfo.cache
+C:\Projetos GIT\ManageRest\obj\Debug\netcoreapp2.2\ManageRest.RazorAssemblyInfo.cs
+C:\Projetos GIT\ManageRest\obj\Debug\netcoreapp2.2\ManageRest.AssemblyInfoInputs.cache
+C:\Projetos GIT\ManageRest\obj\Debug\netcoreapp2.2\ManageRest.AssemblyInfo.cs
+C:\Projetos GIT\ManageRest\bin\Debug\netcoreapp2.2\ManageRest.deps.json
+C:\Projetos GIT\ManageRest\bin\Debug\netcoreapp2.2\ManageRest.runtimeconfig.json
+C:\Projetos GIT\ManageRest\bin\Debug\netcoreapp2.2\ManageRest.runtimeconfig.dev.json
+C:\Projetos GIT\ManageRest\bin\Debug\netcoreapp2.2\ManageRest.dll
+C:\Projetos GIT\ManageRest\bin\Debug\netcoreapp2.2\ManageRest.pdb
+C:\Projetos GIT\ManageRest\obj\Debug\netcoreapp2.2\ManageRest.RazorTargetAssemblyInfo.cache
+C:\Projetos GIT\ManageRest\obj\Debug\netcoreapp2.2\ManageRest.dll
+C:\Projetos GIT\ManageRest\obj\Debug\netcoreapp2.2\ManageRest.pdb
